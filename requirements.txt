@@ -3,3 +3,5 @@ pyOpenSSL
 ndg-httpsclient
 pyasn1
 tabulate
+pandas
+openpyxl
